@@ -28,6 +28,8 @@ The features in the music genre classification dataset are designed to be intuit
 
 Prepare to dive deep into the layers of musical data and discover the patterns that help outline the musical genres.
 
+**FINDINGS:**
+
 Dataset distribution:
 
 ![image](https://github.com/BiaBischoff/Python-Projects/assets/104466669/a485f92d-04a6-46cd-ad26-1844513ef36b)
